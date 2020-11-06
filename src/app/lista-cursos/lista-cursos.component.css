@@ -1,0 +1,53 @@
+#titulo {
+    color: green;
+    text-align: center;
+}
+
+#matricula {
+    background-color:  rgb(210, 218, 219);
+    border: 3px solid black ;
+    color:#002A5C;
+    text-align: center;
+}
+#descricao{
+    background-color:rgb(0,128,198);
+    border: 3px solid rgb(255,194,14);
+    color: black;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding: 10px;
+}
+
+.cursos {
+    background-color: rgb(210, 218, 219);
+    color: green; 
+
+}
+
+#info {
+    color: green;
+}
+.novo-curso {
+    background-color: rgb(210, 218, 219);
+}
+
+#disponiveis{
+    color: navy;
+} 
+
+
+
+article>p {
+    background-color: #b0e0e6;
+    border: 1px solid #7AC142;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding: 10px;
+}
+
+#corpo {
+    background-color: rgb(210, 218, 219);
+    font-size: 20px;
+}
+
+
